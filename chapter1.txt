@@ -1,1 +1,4 @@
-Some random text to fill up this doc... 
+quiero probar esta nueva herramienta
+
+def ahora_si(kaos):
+    return kaos
